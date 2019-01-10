@@ -1,0 +1,3 @@
+NAME			INTERESTS				TECH STACK
+1.John Doe		Web Development, Android Development	HTML, CSS, PHP,
+			Designings, Technical Writing		Javascript e.t.c
