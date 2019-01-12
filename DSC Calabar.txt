@@ -2,3 +2,5 @@ NAME			INTERESTS				TECH STACK
 1.John Doe		Web Development, Android Development	HTML, CSS, PHP,
 			Designings, Technical Writing		Javascript e.t.c
 2.Ikeh Lawrence         Web DEV and Graphics design             HTML, CSS, JavaScript, e.t.c
+
+3.Kedeh Costly          Web Dev and android Dev                 HTML,CSS,JAVASCRIPT,PHP, e.t.c
